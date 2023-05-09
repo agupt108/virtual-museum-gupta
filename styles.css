@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+    font-family: 'Times New Roman', serif;
+    
+  }
+.divA{
+    line-height: 2;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.divB{
+    font-family: 'Times New Roman', serif;
+    text-shadow: 1px 1px;
+}
+.img1{
+    text-align: left;
+    display: inline-block;
+}
+.img2{
+    text-align: right;
+    display: inline-block;
+}
+a:hover{
+    color:darkblue;
+}
+a:visited {
+    color:blue;
+}
